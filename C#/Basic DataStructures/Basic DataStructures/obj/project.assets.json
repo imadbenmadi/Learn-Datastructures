@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Basic DataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-Datastructures\\C#\\Basic DataStructures\\Basic DataStructures\\Basic DataStructures.csproj",
       "projectName": "Basic DataStructures",
-      "projectPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Basic DataStructures.csproj",
+      "projectPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-Datastructures\\C#\\Basic DataStructures\\Basic DataStructures\\Basic DataStructures.csproj",
       "packagesPath": "C:\\Users\\imadb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\obj\\",
+      "outputPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-Datastructures\\C#\\Basic DataStructures\\Basic DataStructures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
